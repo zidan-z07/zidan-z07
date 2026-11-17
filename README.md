@@ -4,4 +4,4 @@ Second-year Automotive and Vehicle Engineering Technology student at McMaster Un
 
 **Tools:** SolidWorks, AUTOCAD, OpenSCAD, Python, C++, Arduino, Raspberry Pi
 
-**Portfolio:** [zidanzuberi.netlify.app](https://zidanzuberi.netlify.app)
+**Portfolio:** [zidanzuberi.com](https://zidanzuberi.com)
